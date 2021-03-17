@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-RegExp
 Version  : 0.04
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/T/TJ/TJMATHER/XML-RegExp-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TJ/TJMATHER/XML-RegExp-0.04.tar.gz
 Summary  : ~
@@ -83,4 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/XML/RegExp.pm
+/usr/lib/perl5/vendor_perl/5.32.1/XML/RegExp.pm
