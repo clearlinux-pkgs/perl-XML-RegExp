@@ -4,7 +4,7 @@
 #
 Name     : perl-XML-RegExp
 Version  : 0.04
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/T/TJ/TJMATHER/XML-RegExp-0.04.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TJ/TJMATHER/XML-RegExp-0.04.tar.gz
 Summary  : ~
